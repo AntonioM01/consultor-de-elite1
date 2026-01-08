@@ -1,0 +1,8 @@
+{
+  "name": "Ozenvita Sales Bot - Persuasive AI",
+  "description": "A world-class sales simulator for Ozenvita, using advanced NLP and Marçal-inspired persuasion techniques to convert leads into customers via a sophisticated WhatsApp-style interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
